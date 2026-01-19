@@ -1,0 +1,56 @@
+payload:
+  - DOMAIN,playartifact.com
+  - DOMAIN,s.team
+  - DOMAIN,steam.tv
+  - DOMAIN,steam-api.com
+  - DOMAIN,steam-chat.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamdeck.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,underlords.com
+  - DOMAIN-SUFFIX,valvesoftware.com
+
+  - DOMAIN,edge.steam-dns.top.comcast.net
+
+  - DOMAIN,steam.apac.qtlglb.com
+  - DOMAIN,steam.eca.qtlglb.com
+  - DOMAIN,steam.naeu.qtlglb.com
+  - DOMAIN,steam.ru.qtlglb.com
+
+  - DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
+  - DOMAIN,f3b7q2p3.ssl.hwcdn.net
+
+  - DOMAIN,steam.cdn.on.net
+  - DOMAIN,steam.cdn.orcon.net.nz
+  - DOMAIN,steam.cdn.slingshot.co.nz
+  - DOMAIN,steam.cdn.webra.ru
+
+  - DOMAIN-SUFFIX,akamaized.net   # ⚠️ 这个不要乱加，会误伤很多别家
+  - DOMAIN,steambroadcast.akamaized.net
+  - DOMAIN,steammobile.akamaized.net
+  - DOMAIN,steampipe-kr.akamaized.net
+  - DOMAIN,steampipe-partner.akamaized.net
+  - DOMAIN,steampipe.akamaized.net
+
+  - DOMAIN,steamcloudsweden.blob.core.windows.net
+
+  - DOMAIN,csgo.wmsj.cn
+  - DOMAIN,dota2.wmsj.cn
+  - DOMAIN,wmsjsteam.com
+  - DOMAIN,client-update.queniuqe.com
+  - DOMAIN,dl.steam.clngaa.com
+  - DOMAIN,st.dl.bscstorage.net
+  - DOMAIN,st.dl.eccdnx.com
+  - DOMAIN,st.dl.pinyuncloud.com
+  - DOMAIN,steampowered.com.8686c.com
+  - DOMAIN,steamstatic.com.8686c.com
+  - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+  - DOMAIN,lv.queniujq.cn
+  - DOMAIN,xz.pphimalayanrt.com
+  - DOMAIN,steamchina.com
+  - DOMAIN,gstore.val.manlaxy.com
