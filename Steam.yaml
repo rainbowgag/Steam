@@ -30,7 +30,7 @@ payload:
   - DOMAIN,steam.cdn.slingshot.co.nz
   - DOMAIN,steam.cdn.webra.ru
 
-  - DOMAIN-SUFFIX,akamaized.net   # ⚠️ 这个不要乱加，会误伤很多别家
+  #- DOMAIN-SUFFIX,akamaized.net   # ⚠️ 这个不要乱加，会误伤很多别家
   - DOMAIN,steambroadcast.akamaized.net
   - DOMAIN,steammobile.akamaized.net
   - DOMAIN,steampipe-kr.akamaized.net
